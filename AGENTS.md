@@ -136,3 +136,17 @@ header specified in `CONTRIBUTING.md`.
 - This is a public repository. Never commit credentials, `.env` files, or private
   managed-service operations/configuration. Keep managed-instance work in its
   private repositories and respect the separate `ee/` license.
+
+## Agent skills
+
+### Issue tracker
+
+GitHub issues in this repo. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Default five roles, label names equal the role names. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context. See `docs/agents/domain.md`.

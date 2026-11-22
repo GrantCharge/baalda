@@ -1267,3 +1267,17 @@ with tokens kept only in the per-server OS keychain. One server is active at a t
 Switching flushes pending edits and closes the previous vault before changing the shared
 API client; clear the old bearer before exposing the new URL. Choose a destination vault
 explicitly after switching, rather than reconciling the previous server's local folder.
+
+## Agent skills
+
+### Issue tracker
+
+GitHub issues in this repo. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Default five roles, label names equal the role names. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context. See `docs/agents/domain.md`.
